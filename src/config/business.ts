@@ -3,8 +3,8 @@ import type { Business } from './types'
 export const business: Business = {
   slug: 'scriptquoin',
   name: 'ScriptQuoin',
-  domain: 'scriptquoin.top',
-  email: 'ebuka@scriptquoin.top',
+  domain: 'scriptquoin.space',
+  email: 'ebuka@scriptquoin.space',
   tagline: 'Organize production before filming begins.',
   industries: ['Media', 'Entertainment', 'Natural Language Processing'],
   description:

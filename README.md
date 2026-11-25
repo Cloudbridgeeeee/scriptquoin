@@ -9,7 +9,7 @@ Marketing website and interactive product demonstration for ScriptQuoin.
 - Industry: Media, Entertainment, Natural Language Processing
 - Founder: Ebuka Anya (Founder & CEO)
 - Co-founder: Oluwaseun Ajibola (Co-founder & CTO)
-- Contact: ebuka@scriptquoin.top
+- Contact: ebuka@scriptquoin.space
 - Business model: Project-based subscriptions
 
 ## Stack
