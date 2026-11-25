@@ -1,0 +1,16 @@
+{
+  "name": "ScriptQuoin",
+  "short_name": "ScriptQuoin",
+  "description": "AI film production planning software that analyzes scripts, organizes scenes and identifies estimated production resources.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
